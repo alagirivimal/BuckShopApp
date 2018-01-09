@@ -1,0 +1,12 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+
+.bpd{margin: 5px 0px; color: #999999;}
+
+.logwith{padding: 10px;}
+.landingbg{background:url("../images/bs/bglanding.jpg") no-repeat; background-size: cover;}
+
